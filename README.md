@@ -96,3 +96,14 @@ Validate
 Analyze
    ↓
 Load / Export
+
+## 👩‍💻 Author
+
+**Durga Malleswari Sampara**
+
+Computer Science Engineering Student
+
+**Project:** AI Data Quality Guardian
+
+## 🪪License
+This project is developed for educational, learning, and portfolio purposes.
