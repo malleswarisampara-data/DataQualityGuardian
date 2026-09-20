@@ -1,0 +1,16 @@
+customer_id,name,email,age,city,purchase_amount
+1,Rahul,rahul@gmail.com,21,Hyderabad,450
+2,Priya,priya@gmail.com,22,Vijayawada,780
+3,Arun,arun@gmail,250,Visakhapatnam,980
+4,Sneha,,24,Hyderabad,1200
+5,Ravi,ravi@gmail.com,27,Guntur,850
+6,Ravi,ravi@gmail.com,27,Guntur,850
+7,Anjali,anjali@gmail.com,23,Warangal,920
+8,Kiran,kiran@gmail.com,,Hyderabad,1100
+9,Meena,meena@gmail.com,25,Vijayawada,950
+10,Ajay,ajay@gmail.com,29,Guntur,2400
+11,Swathi,swathi@gmail.com,26,Hyderabad,700
+12,Ramesh,ramesh@gmail.com,31,Warangal,1300
+13,Pooja,pooja@gmail.com,22,Vijayawada,650
+14,Vinay,vinay@gmail.com,28,Guntur,900
+15,Divya,divya@gmail.com,24,Hyderabad,1050
